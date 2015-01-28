@@ -1,4 +1,4 @@
-﻿if ( app.activeDocument.selection[i] > 0){
+﻿if ( app.activeDocument.selection.length > 0){
 
     var newContent;
      function getNewContent(){
