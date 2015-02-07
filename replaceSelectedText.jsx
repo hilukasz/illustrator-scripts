@@ -10,4 +10,4 @@
         app.activeDocument.selection[i].contents = newContent;
     }
 }
-else { alert("yo dawg, I heard through the grapevine you hate selecting text. You should do that. Else this script doesn't work");}
+else { alert("yo dawg, I heard through the grapevine you hate selecting text. You should do that. Else this script doesn't work.");}
